@@ -4,7 +4,7 @@
 
 J'suis sur différents projets tel que :
 
-- [Westelife](https://westerlife.fr)
+- ~~[Westelife](https://westerlife.fr)~~ Projet clos.
 - [OcéanRP](https://oceanrp.fr)
 
 J'apprend en auto-didacte :
