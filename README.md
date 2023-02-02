@@ -19,7 +19,6 @@ J'apprend en auto-didacte :
 Des fois, j'utilise :
 <center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50px" heigh="50px"></img>
-<img src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" width="50px" heigh="50px"></img>
 <img src="https://discord.js.org/static/djs_logo.png" width="50px" heigh="50px"></img>
 
 
