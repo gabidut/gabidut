@@ -4,8 +4,7 @@
 
 J'suis sur différents projets tel que :
 
-- ~~[Westelife](https://westerlife.fr)~~ Projet clos.
-- [OcéanRP](https://oceanrp.fr)
+- Zone Echo (.gg/bHH253Epbu)
 
 J'apprend en auto-didacte :
 <center>
