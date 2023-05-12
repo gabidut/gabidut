@@ -2,7 +2,7 @@
 
 ## Moi c'est gabidut76 petit développeur apprenti mais qui se débrouille pas trop mal !
 
-J'suis sur différents projets tel que :
+J'étais sur différents projets tel que :
 
 - Zone Echo (.gg/bHH253Epbu)
 
