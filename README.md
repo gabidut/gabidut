@@ -2,6 +2,10 @@
 
 ## Moi c'est gabidut76 petit développeur apprenti mais qui se débrouille pas trop mal !
 
+Je travaille actuellement sur : 
+
+[WesterLife](https://westerlife.fr)
+
 J'étais sur différents projets tel que :
 
 - Zone Echo (.gg/bHH253Epbu)
