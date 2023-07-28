@@ -4,8 +4,8 @@
 
 Je travaille actuellement sur : 
 
-[WesterLife](https://westerlife.fr)
-[SPhone](https://github.com/Florent-Marc/SPhone) (avec des copains)
+* [WesterLife](https://westerlife.fr)
+* [SPhone](https://github.com/Florent-Marc/SPhone) (avec des copains)
 
 J'étais sur différents projets tel que :
 
@@ -24,7 +24,7 @@ J'apprend en auto-didacte :
 Des fois, j'utilise :
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50px" heigh="50px"></img>
-<img src="https://discord.js.org/safari-pinned-tab.svg" width="50px" heigh="50px"></img>
+<img src="https://discord.js.org/apple-touch-icon.png" width="50px" heigh="50px"></img>
 
 </p>
 
