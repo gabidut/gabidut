@@ -28,3 +28,6 @@ Des fois, j'utilise :
 
 </p>
 
+
+[![stats](https://github-readme-stats.vercel.app/api?username=gabidut)](https://github.com/gabidut/github-readme-stats)
+
