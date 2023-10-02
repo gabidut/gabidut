@@ -2,6 +2,8 @@
 
 ## Moi c'est [gabidut76](https://gabidut76.fr) petit développeur apprenti mais qui se débrouille pas trop mal !
 
+[![stats](https://github-readme-stats.vercel.app/api?username=gabidut&show_icons=true&theme=radical)](https://github.com/gabidut/github-readme-stats)
+
 Je travaille actuellement sur : 
 
 * [WesterLife](https://westerlife.fr)
@@ -21,13 +23,13 @@ J'apprend en auto-didacte :
 </p>
 
 
+
 Des fois, j'utilise :
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50px" heigh="50px"></img>
 <img src="https://discord.js.org/apple-touch-icon.png" width="50px" heigh="50px"></img>
+<img src="https://avatars.githubusercontent.com/u/1390178?s=280&v=4" width="50px" heigh="50px"></img>
 
 </p>
 
-
-[![stats](https://github-readme-stats.vercel.app/api?username=gabidut)](https://github.com/gabidut/github-readme-stats)
 
