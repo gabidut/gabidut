@@ -2,34 +2,18 @@
 
 ## Moi c'est [gabidut76](https://gabidut76.fr) petit développeur apprenti mais qui se débrouille pas trop mal !
 
-[![stats](https://github-readme-stats.vercel.app/api?username=gabidut&show_icons=true&theme=radical)](https://github.com/gabidut/github-readme-stats)
 
 Je travaille actuellement sur : 
+<h2 align="left" style="vertical-align: middle;">
+    <img src="https://arktis-studio.fr/images/newlogosmallbg.png" width="25px"> <sup><sub> <a href="https://arktis-studio.fr">Arktis</a></sub></sup><br>
+    <img src="https://code.gabidut76.fr/logodev.png" width="25px"> <sup><sub> <a href="https://github.com/Florent-Marc/SPhone">SPhone</a></sub></sup><br>
+    <img src="https://code.gabidut76.fr/westerlife.png" width="25px"> <sup><sub> <a href="https://westerlife.fr">Westerlife</a></sub></sup>
+</h2>
 
-* [WesterLife](https://westerlife.fr)
-* [SPhone](https://github.com/Florent-Marc/SPhone) (avec des copains)
+J'apprend et j'utilise en auto-didacte :
 
-J'étais sur différents projets tel que :
+[![My Skills](https://skillicons.dev/icons?i=idea,phpstorm,webstorm,java,js,nodejs,linux,blender,flutter,discordjs,electron,bash&perline=4)](https://skillicons.dev)
 
-- Zone Echo (.gg/bHH253Epbu)
+<h2></h2>
 
-J'apprend en auto-didacte :
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png" width="50px" heigh="50px"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="50px" heigh="50px"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" width="50px" heigh="50px"></img>
-
-
-</p>
-
-
-
-Des fois, j'utilise :
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" width="50px" heigh="50px"></img>
-<img src="https://discord.js.org/apple-touch-icon.png" width="50px" heigh="50px"></img>
-<img src="https://avatars.githubusercontent.com/u/1390178?s=280&v=4" width="50px" heigh="50px"></img>
-
-</p>
-
-
+[![stats](https://github-readme-stats.vercel.app/api?username=gabidut&show_icons=true&theme=radical)](https://github.com/gabidut/github-readme-stats)
