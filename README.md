@@ -1,14 +1,18 @@
 # Bonsoir !
 
-## Moi c'est [gabidut76](https://gabidut76.fr) petit développeur apprenti mais qui se débrouille pas trop mal !
+## Moi c'est [gabidut76](https://gabidut76.fr) développeur apprenti !
 
 
 Je travaille actuellement sur : 
 <h2 align="left" style="vertical-align: middle;">
-    <img src="https://arktis-studio.fr/images/newlogosmallbg.png" width="25px"> <sup><sub> <a href="https://arktis-studio.fr">Arktis</a></sub></sup><br>
+    <img src="https://arktis-studio.fr/images/newlogosmallbg.png" width="25px"> <sup><sub> <a href="https://arktis-studio.fr">Arktis-Studio</a></sub></sup><br>
+
+## J'ai pu contribuer à : 
     <img src="https://code.gabidut76.fr/logodev.png" width="25px"> <sup><sub> <a href="https://github.com/Florent-Marc/SPhone">SPhone</a></sub></sup><br>
     <img src="https://code.gabidut76.fr/westerlife.png" width="25px"> <sup><sub> <a href="https://westerlife.fr">Westerlife</a></sub></sup>
 </h2>
+
+Je développe principalement dans le domaine du **web**, cependant j'ai déjà pu développer du Java, C, Rust dans le cadre de cours ou développement logiciels.
 
 J'apprend et j'utilise en auto-didacte :
 
