@@ -1,6 +1,6 @@
 # Bonsoir !
 
-## Moi c'est [gabidut76](https://gabidut76.fr) développeur apprenti !
+## Moi c'est [gabidut76](https://gabidut76.fr) développeur !
 
 
 Je travaille actuellement sur : 
